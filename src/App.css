@@ -122,11 +122,10 @@ footer {
 }
 
 @media (max-width: 370px) {
-    .display-text {
-      height: 55%;
-      width: 50vw;
-      font-size: 1.1em;
+  .display-text {
+    height: 55%;
+    width: 50vw;
+    font-size: 1.1em;
 
-    }
   }
 }
